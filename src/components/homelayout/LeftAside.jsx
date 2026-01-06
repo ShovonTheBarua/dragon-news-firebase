@@ -8,7 +8,7 @@ const LeftAside = () => {
         fallback={<span className="loading loading-dots loading-xl"></span>}
       >
         <Categories></Categories>
-      </Suspense>
+      </Suspense> 
     </div>
   );
 };
